@@ -15,4 +15,5 @@ This repository contains my personal configuration files for various application
 
 Clone the repository and use symlinks or copy the files to your `.config` directory.
 
-![Screenshot_2024-10-26_13-41-25](https://github.com/user-attachments/assets/88f360f3-5b7d-4013-9a9c-4e44877ae841)
+![Screenshot_2024-11-02_14-18-22](https://github.com/user-attachments/assets/ab359ea9-0a9d-486d-a07e-57f594d99568)
+
