@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="d9b47f3f48563b443d5c4504f09b9071"
+API_KEY="xxxxxxxxxxxxxxxxxxxxxxxx"
 CITY_ID="4710178"
 UNITS="imperial"  # Use "imperial" for Fahrenheit
 
